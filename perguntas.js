@@ -1,36 +1,35 @@
 criaCartao(
-    'Futebol',
-    'Qual seleção tem mais copas do mundo'
-    'Brasil'
+  'Esporte',
+  'Qual o melhor esporte?',
+  'Futebol'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+  'Filmes',
+  'Qual o melhor filme da Marvel?',
+  'Vingadores: Ultimato'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+  'Futebol',
+  'Qual a melhor competição de futebol?',
+  'Copa do Mundo'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+  'Marcas',
+  'Qual a melhor marca de esportivos?',
+  'Nike'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+  'Música',
+  'Qual o melhor cantor pop?',
+  'Michael Jackson'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+  'Mundo',
+  'Qual o maior país do mundo?',
+  'Rússia'
 )
-
